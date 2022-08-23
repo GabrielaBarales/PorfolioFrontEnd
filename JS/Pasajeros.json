@@ -1,0 +1,55 @@
+[
+{ 
+    "nombre": "Laura",
+    "apellido": "Rodrigues",
+    "edad": 24,
+    "precioasiento":200.24,
+    "pagado": true,
+    "asiento":{
+        "numero":13,
+        "letra": "F",
+        "cagador": false,
+    },
+    "historial": [
+        {
+            "salida":"New York",
+            "destino":"Chicago",
+            "fecha":"10/10/2020",
+
+        },
+        {
+            "salida":"Madrid",
+            "destino":"Barcelona",
+            "fecha":"09/09/2020",
+
+        },
+    ]
+
+
+},
+{"nombre": "Juan",
+    "apellido": "Rosales",
+    "edad": 23,
+    "precioasiento":200.24,
+    "pagado": true,
+    "asiento":{
+        "numero":34,
+        "letra": "k",
+        "cagador": false,
+    },
+    "historial": [
+        {
+            "salida":"Argentina",
+            "destino":"Mendoza",
+            "fecha":"5/12/2020",
+
+        },
+        {
+            "salida":"Mendoza",
+            "destino":"Bolivia",
+            "fecha":"09/09/2020",
+
+        },
+    ]
+    }
+]
